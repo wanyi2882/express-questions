@@ -8,7 +8,7 @@ Try the following hands-on. Create the following routes in your express app.
 
 2. Complete your answers in `app.js`
 
-3. To test, test with `npm test lab-01-hello-from-express`
+3. To test, test with `npm test lab-01a-hello-from-express`
 
 ## Question 1
 Create a new route `/` that will return the string `Hello everyone!`

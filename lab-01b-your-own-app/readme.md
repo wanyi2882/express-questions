@@ -3,7 +3,11 @@
 ## Instructions
 There will be no `app_template.js` for you this time, just an `index.js`. Your task is to:
 
-1. Write your **own** `app.js`
+1. Write your **own** `app.js`. **Make sure your app.js ends with the following line:**
+
+```
+module.exports = app;
+```
 
 2. Add in the routes specified by the questions below
 
