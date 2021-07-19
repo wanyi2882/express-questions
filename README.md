@@ -15,7 +15,13 @@ Please consult the `readme.md` file for in each folder for the question.
 
 6. Check the `readme.md` file for each question
 
-7. Run tests with `npm test lab-xyz` where `xyz` is the lab number (the remaining text at the back is optional). 
+7. **Important** Make sure you include the line below before defining your routes:
+
+```
+app.set('views', __dirname + '/views');
+```
+
+8. Run tests with `npm test lab-xyz` where `xyz` is the lab number (the remaining text at the back is optional). 
    For example, to run lab 01b, type in
 
    ```
